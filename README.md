@@ -9,7 +9,7 @@ course = None
 salery = None 
 subject = None 
 
-  def init (self, first_name, last_name, campus, birthday, course, salery, subject): 
+  def _init_ (self, first_name, last_name, campus, birthday, course, salery, subject): 
 	self.first_name = first_name 
 	self.last_name = last_name 
 	self.campus = campus 
